@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="348.0" prefWidth="456.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <Button fx:id="cube_b" mnemonicParsing="false" prefHeight="123.0" prefWidth="230.0" text="Куб" />
+      <Button fx:id="sphere_b" layoutX="231.0" mnemonicParsing="false" prefHeight="123.0" prefWidth="222.0" text="Сфера" />
+      <Button fx:id="cylinder_b" layoutX="1.0" layoutY="123.0" mnemonicParsing="false" prefHeight="123.0" prefWidth="230.0" text="Циліндер" />
+      <Button fx:id="logotype_b" layoutX="232.0" layoutY="123.0" mnemonicParsing="false" prefHeight="123.0" prefWidth="222.0" text="Логотип" />
+      <Button fx:id="multimedia_b" layoutY="247.0" mnemonicParsing="false" prefHeight="101.0" prefWidth="456.0" text="Мультимедіа" />
+   </children>
+</AnchorPane>
